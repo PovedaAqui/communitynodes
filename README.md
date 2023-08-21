@@ -6,6 +6,7 @@ This repository contains an Excel file named "Gnosis_Validator_Calc_Beta_v0.1". 
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Next Steps](#next-steps)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,11 +27,11 @@ Now you can Refresh All the data, and you'll get updated values.
 
 ## Next Steps
 
-Once I have my first node up and running, I'll replace both the validator code and the validator's current balance, for now, you'll see those values being hardcoded for testing purposes.
+- Once I have my first node up and running, I'll replace both the validator code and the validator's current balance, for now, you'll see those values being hardcoded for testing purposes. (DONE)
 
-Battle testing the file.
+- Battle testing the file.
 
-Include [additional rewards and penalties](https://docs.gnosischain.com/node/rewards-penalties).
+- Include [additional rewards and penalties](https://docs.gnosischain.com/node/rewards-penalties).
 
 ## Contributing
 
