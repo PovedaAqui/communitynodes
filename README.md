@@ -1,6 +1,6 @@
 # communitynodes
 
-This repository contains an Excel file named "Gnosis_Validator_Calc_Beta_v0.1". The file contains a basic calculator to check if your Gnosis chain validator is a rentable venture.
+This repository contains an Excel file named "Gnosis_Validator_Calc_Beta_v0.x". The file contains a basic calculator to check if your Gnosis chain validator is a rentable venture.
 
 ## Contents
 
